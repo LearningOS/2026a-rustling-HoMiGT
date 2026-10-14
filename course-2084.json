@@ -2,8 +2,8 @@
   "schema": 1,
   "courseId": 2084,
   "repository": "LearningOS/2026a-rustling-HoMiGT",
-  "commit": "bb98c9fcff7c2f9b8092baea62331b84e709c0f5",
-  "score": 30,
+  "commit": "b90a0641c61b0bb0f226fa24dee3555ea22d2e81",
+  "score": 33,
   "totalScore": 110,
   "exercises": [
     {
@@ -219,23 +219,23 @@
     {
       "name": "structs1",
       "max": 1,
-      "score": 0,
-      "status": "fail",
-      "exitCode": 1
+      "score": 1,
+      "status": "pass",
+      "exitCode": 0
     },
     {
       "name": "structs2",
       "max": 1,
-      "score": 0,
-      "status": "fail",
-      "exitCode": 1
+      "score": 1,
+      "status": "pass",
+      "exitCode": 0
     },
     {
       "name": "structs3",
       "max": 1,
-      "score": 0,
-      "status": "fail",
-      "exitCode": 1
+      "score": 1,
+      "status": "pass",
+      "exitCode": 0
     },
     {
       "name": "enums1",
@@ -778,9 +778,9 @@
     }
   ],
   "student": "HoMiGT",
-  "runId": "38506919886",
+  "runId": "38508988422",
   "runAttempt": "1",
   "upload": {
-    "status": "accepted"
+    "status": "pending"
   }
 }
