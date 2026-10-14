@@ -2,7 +2,7 @@
   "schema": 1,
   "courseId": 2084,
   "repository": "LearningOS/2026a-rustling-HoMiGT",
-  "commit": "d06934dc8c963dfaffb59c068103e55540c954fb",
+  "commit": "710337bb9cad2cabf5775c66726df9178f02cc8e",
   "score": 40,
   "totalScore": 110,
   "exercises": [
@@ -778,9 +778,9 @@
     }
   ],
   "student": "HoMiGT",
-  "runId": "38518789455",
+  "runId": "38519749990",
   "runAttempt": "1",
   "upload": {
-    "status": "accepted"
+    "status": "pending"
   }
 }
