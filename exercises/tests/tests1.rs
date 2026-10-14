@@ -10,12 +10,16 @@
 // Execute `rustlings hint tests1` or use the `hint` watch subcommand for a
 // hint.
 
-// I AM NOT DONE
+
+fn is_even(n: i64) -> bool{
+    n%2==0
+}
 
 #[cfg(test)]
 mod tests {
+    use super::*;
     #[test]
     fn you_can_assert() {
-        assert!();
+        assert!(is_even(0));
     }
 }
